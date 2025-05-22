@@ -27,7 +27,9 @@ Business Intelligence & Storytelling with Data
 
 💡 Inspired by real-world problem statements from industry leaders like @Accenture and @Capgemini who continue to lead in the field of digital and data innovation!
 
-I’d love to hear your feedback — feel free to connect, collaborate, or share suggestions!
+#DataAnalytics #Python #MSSQL #PowerBI #DataVisualization #RetailAnalytics #Blinkit #Accenture #Capgemini #SQLProjects #BusinessIntelligence #GitHub
+
+
 https://github.com/vaishnavithorat20/Data-Analysis-Project-Retail-Sales-Insights-Dashboard-Blinkit/blob/main/Dashboard%20Screenshot.png
 
 #DataAnalytics #Python #MSSQL #PowerBI #DataVisualization #RetailAnalytics #Blinkit #Accenture #Capgemini #SQLProjects #BusinessIntelligence #GitHub
