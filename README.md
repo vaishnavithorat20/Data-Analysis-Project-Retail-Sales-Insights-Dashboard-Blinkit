@@ -32,5 +32,5 @@ Business Intelligence & Storytelling with Data
 
 https://github.com/vaishnavithorat20/Data-Analysis-Project-Retail-Sales-Insights-Dashboard-Blinkit/blob/main/Dashboard%20Screenshot.png
 
-#DataAnalytics #Python #MSSQL #PowerBI #DataVisualization #RetailAnalytics #Blinkit #Accenture #Capgemini #SQLProjects #BusinessIntelligence #GitHub
+
 
